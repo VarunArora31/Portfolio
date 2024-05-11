@@ -165,7 +165,7 @@ nav {
       rgba(11, 20, 35, 0.8),
       rgba(11, 20, 35, 0.8)
     ),
-    url("assets/contribution-flex.png");
+    url("assets/header.jpg");
   background-size: contain;
   background-position: center center;
   background-repeat: no-repeat;
@@ -274,7 +274,7 @@ nav {
 }
 
 .service__container .section__header::before {
-  content: "Service";
+  content: "Aim";
 }
 
 .service__container .section__description {
@@ -459,7 +459,7 @@ nav {
 }
 
 .client__container .section__header::before {
-  content: "Testimonials";
+  content: "Colleague";
   left: 50%;
   transform: translateX(-50%);
 }
@@ -499,7 +499,7 @@ nav {
 }
 
 .client__card img {
-  max-width: 100px;
+  max-width: 145px;
   margin-inline: auto;
   border-radius: 100%;
 }
